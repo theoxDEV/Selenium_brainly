@@ -5,10 +5,10 @@ from selenium import webdriver
 
 def Acessando_KROTON():
     global login_kroton
-    login_kroton = '05738456114'
+    login_kroton = CPF/RA
     # login_kroton = input("Informe seu login: ")
     global senha_kroton
-    senha_kroton = '91188922'
+    senha_kroton = SENHA do portal
     # senha_kroton = input("Informe sua senha: ")
     url_kroton = ('http://login.kroton.com.br/')
     global driver
